@@ -7,12 +7,9 @@ import plotly.express as px
 
 st.set_page_config(page_title="Dashboard Ovinos - Cooperativa", layout="wide")
 
-st.title("🐑 Dashboard de Análise — Cooperativa de Produtores de Ovinos")
-st.markdown("Visualize indicadores, gráficos e insights a partir do arquivo CSV da cooperativa.")
+st.title("Dashboard de Análise — Cooperativa de Produtores de Ovinos")
+st.markdown("")
 
-st.set_page_config(page_title="Análise Cooperativa de Ovinos", layout="wide")
-
-st.title("📊 Dashboard - Cooperativa de Produtores de Ovinos/Caprinos")
 
 # 1. Carregar dados
 
